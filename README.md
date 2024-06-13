@@ -1,1 +1,1 @@
-# bedrock-types
+# Amazon Bedrock Converse API Data Types
