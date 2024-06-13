@@ -4,7 +4,6 @@ build-backend = "hatchling.build"
 
 [project]
 name = "bedrock_types"
-version = "0.1.2"
 authors = [
   { name="Shawn Zhang", email="hustshawn+pypi@gmail.com" },
 ]
