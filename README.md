@@ -11,6 +11,13 @@
 This project is a [Pydantic](https://github.com/pydantic/pydantic) implementation of [Amazon Bedrock Runtime Converse API Data Types](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_Types_Amazon_Bedrock_Runtime.html).
 
 
+## Installation (python >= 3.8)
+
+```
+pip install bedrock-types
+```
+
+
 ## Example Usage
 
 ```python
